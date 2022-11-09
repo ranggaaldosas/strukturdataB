@@ -1,0 +1,28 @@
+buat program Tree dengan studi kasus silsilah keluarga dengan ketentuan :
+1. 6 level
+2. implementasikan jenis binary tree apa saja (boleh memilih Skewed, full, complete)
+3. implementasikan ketiga traversal (PreOrder, Inorder dan PostOrder)
+4. Input : nama salah satu anggota keluarga yang akan direname --> nama baru
+   Proses : Traversal (ketiga2nya)
+   Output : 
+Pre-order :
+	    cetak urutan traversal metode PreOrder -->  A,B,C,dst
+	    menemukan nama anggota keluarga yang akan direname -->B
+	    cetak hasil rename --> BNew
+	    Cetak urutan traversal metode preorder --> setelah direname
+InOrder:
+	    cetak urutan traversal metode InOrder-->  A,B,C,dst
+	    menemukan nama file yang akan direname -->B
+	    cetak hasil rename --> BNew
+	    Cetak urutan traversal metode InOrder --> setelah direname
+PostOrder :
+	    cetak urutan traversal metode PostOrder-->  A,B,C,dst
+	    menemukan nama file yang akan direname -->B
+	    cetak hasil rename --> BNew
+	    Cetak urutan traversal metode PostOrder --> setelah direname
+ 
+yang dikumpulkan di Classroom maksimal Rabu, 19 Oktober 2022 jam 08.00 WIB
+1. Dokumentasi (visualisasi Tree dokumentasi program-->source code penjelasan setiap fungsi)
+2. Source code
+
+subject : ETS_NRP_Nama.Zip
