@@ -106,6 +106,7 @@ int main()
     g1.addEdge(14, 18); // 15 - 19
     g1.addEdge(18, 19); // 19 - 20
 
+    g1.BFS(0, 19);
     cout << endl;
     g1.showList();
 
